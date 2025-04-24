@@ -77,3 +77,4 @@ anthropic>=0.42.0
 instructor
 
 datasets>=3.5.0
+hf-xet>=1.0.4
