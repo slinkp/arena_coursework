@@ -78,3 +78,7 @@ instructor
 
 datasets>=3.5.0
 hf-xet>=1.0.4
+
+# I'm using this for some visualization
+seaborn==0.13.2
+
